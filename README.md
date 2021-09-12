@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bLueriVerLHR
 - 👀 I’m interested in light novels.
-- 🌱 I’m currently learning win32 api.
+- 🌱 I’m currently learning operation system.
 - 📫 How to reach me : email blueriverlhr@foxmail.com
