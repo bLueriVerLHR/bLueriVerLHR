@@ -4,7 +4,7 @@
 - 📫 How to reach me : email lhrblueriver@outlook.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,13 +37,14 @@ Sunday                   205 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SSH Config               4 mins              ████████████████████████░   97.32 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -63,5 +64,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bLueriVerLHR/bLueriVerLHR/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2024 18:43:04 UTC
+ Last Updated on 24/11/2024 18:43:23 UTC
 <!--END_SECTION:waka-->
