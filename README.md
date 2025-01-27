@@ -4,7 +4,7 @@
 - 📫 How to reach me : email lhrblueriver@outlook.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,15 +37,16 @@ Sunday                   205 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 27 mins       ████████████████████████░   96.91 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   1 hr 42 mins        ████████████████████████░   95.56 % 
+Makefile                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -65,5 +66,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bLueriVerLHR/bLueriVerLHR/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2025 18:41:15 UTC
+ Last Updated on 27/01/2025 18:43:30 UTC
 <!--END_SECTION:waka-->
