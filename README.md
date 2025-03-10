@@ -4,9 +4,9 @@
 - 📫 How to reach me : email lhrblueriver@outlook.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -37,16 +37,17 @@ Sunday                   205 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 2 mins        █████████████████████████   99.66 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   8 hrs 26 mins       ████████████████████████░   94.43 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Makefile                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    8 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -66,5 +67,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bLueriVerLHR/bLueriVerLHR/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2025 18:37:49 UTC
+ Last Updated on 10/03/2025 18:45:09 UTC
 <!--END_SECTION:waka-->
