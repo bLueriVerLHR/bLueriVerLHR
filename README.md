@@ -4,9 +4,9 @@
 - 📫 How to reach me : email lhrblueriver@outlook.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -37,17 +37,17 @@ Sunday                   205 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs 44 mins      ███████████░░░░░░░░░░░░░░   45.11 % 
-Other                    15 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   39.23 % 
-Makefile                 5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-CMake                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Other                    17 hrs 27 mins      ███████████░░░░░░░░░░░░░░   44.53 % 
+Python                   15 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.39 % 
+Makefile                 4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+CMake                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  39 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    39 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -67,5 +67,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bLueriVerLHR/bLueriVerLHR/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2025 18:43:21 UTC
+ Last Updated on 24/03/2025 18:47:29 UTC
 <!--END_SECTION:waka-->
