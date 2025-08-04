@@ -37,17 +37,13 @@ Sunday                   203 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 26 mins       ████████████████░░░░░░░░░   64.65 % 
-Python                   1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-TOML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -67,5 +63,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bLueriVerLHR/bLueriVerLHR/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2025 18:52:41 UTC
+ Last Updated on 04/08/2025 18:56:40 UTC
 <!--END_SECTION:waka-->
